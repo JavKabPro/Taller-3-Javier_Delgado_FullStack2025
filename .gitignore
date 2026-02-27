@@ -1,0 +1,18 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.d
+# Archivos  temporales del editor
+.vscode/
+.idea/
+
+# Archivos de respaldo
+*.log
+*.tmp
+*.bak
+.vscode/
+.idea/
+
+# Archivos de respaldo
+*.log
+*.tmp
+*.bak
