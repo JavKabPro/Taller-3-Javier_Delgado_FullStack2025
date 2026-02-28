@@ -1,3 +1,4 @@
+* { box-sizing: border-box;}
 h1{
     font-size: higher 50px;
     color: rgb(148, 143, 161);
@@ -10,6 +11,13 @@ p{
 
 a{
     color: rgb(40, 154, 40);
+}
+
+.section{
+    padding: 25px;
+    margin: 25px  0;
+    border: 2px solid #ccc;
+    border-radius: 10px;
 }
 
 .classmate{
